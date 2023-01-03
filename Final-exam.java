@@ -82,6 +82,8 @@ public class HelloApplication extends Application {
 }
 
 /*
+Declarition for the Math.random() method:
+
 0.0 * 4 = 0.0 + 1 = 1.0 => 1
 0.1 * 4 = 0.4 + 1 = 1.4 => 1
 0.2 * 4 = 0.8 + 1 = 1.8 => 1
